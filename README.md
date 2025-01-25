@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jonayet Hossen</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
