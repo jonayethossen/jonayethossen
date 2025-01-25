@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **"React, firebase ,MongoDB , express , Tailwind CSS, Node js"**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QogoJobFgVjwng47dEfe-eRJp5hLVKt3/view?usp=drive_link](https://drive.google.com/file/d/1QogoJobFgVjwng47dEfe-eRJp5hLVKt3/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QogoJobFgVjwng47dEfe-eRJp5hLVKt3/view?usp=drive_link](bit.ly/3Ena176)
 
 - ⚡ Fun fact **I love experimenting with **Arduino****
 
