@@ -6,7 +6,7 @@
 
 - 👩‍💻 Know about my experiences "[bit.ly/3Ena176](https://bit.ly/3Ena176)"
 
-- 🚀 Fun fact **I love experimenting with **Arduino****
+- 🚀 Fun fact "**I love experimenting with **Arduino****"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
