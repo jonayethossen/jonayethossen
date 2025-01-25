@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **"React, firebase ,MongoDB , express , Tailwind CSS, Node js"**
 
-- 📄 Know about my experiences (bit.ly/3Ena176)
+- 📄 Know about my experiences "bit.ly/3Ena176"
 
 - ⚡ Fun fact **I love experimenting with **Arduino****
 
