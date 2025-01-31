@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate Snake
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Contribution Grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Jonayet-Hossen
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Generated Snake SVG to the Output Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
