@@ -3,7 +3,8 @@
 </h1>
 
 <h2 align="center">A Mern Stack developer from Bangladesh</h2>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
+<div>
+ <img  style="margin-top: 100px; text-align: center;" align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
 
 ```javascript
 const developer = {
@@ -19,12 +20,16 @@ const developer = {
     database: ["MongoDB", "Mongoose", "Firebase"],
     misc: ["Socket.IO", "REST APIs", "WebSockets"],
     tools: ["Git", "Postman", "Figma"],
-  },
-  architecture: ["MVC", "REST API"],
-  currentlyLearning: ["Next.js", "TypeScript"]
-  lookingFor: "Open Source Collaborations & Challenging Projects",
+
+},
+architecture: ["MVC", "REST API"],
+currentlyLearning: ["Next.js", "TypeScript"]
+lookingFor: "Open Source Collaborations & Challenging Projects",
 };
+
 ```
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
