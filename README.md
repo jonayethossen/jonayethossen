@@ -5,11 +5,26 @@
 <h2 align="center">A Mern Stack developer from Bangladesh</h2>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
 
-- 🙋‍♂️ Ask me about "React ,Firebase ,MongoDB ,Express ,Tailwind CSS ,Node js"
+```javascript
+const developer = {
+  name: "Jonayet Hossen",
+  role: "MERN Stack Developer",
+  skills: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "Bootstrap"],
 
-- 👩‍💻 Know about my experiences "[bit.ly/3Ena176](https://bit.ly/3Ena176)"
-
-- 🚀 Fun fact "**I love experimenting with **Arduino****"
+    },
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "Mongoose", "Firebase"],
+    misc: ["Socket.IO", "REST APIs", "WebSockets"],
+    tools: ["Git", "Postman", "Figma"],
+  },
+  architecture: ["MVC", "REST API"],
+  currentlyLearning: ["Next.js", "TypeScript"]
+  lookingFor: "Open Source Collaborations & Challenging Projects",
+};
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
