@@ -6,6 +6,9 @@
 <div >
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
 
+| Weapons
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonayethossen&theme=react)](https://github.com/jonayethossen/github-readme-stats) |
+
 ```javascript
 const developer = {
   name: "Jonayet Hossen",
