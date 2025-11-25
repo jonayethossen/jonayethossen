@@ -4,7 +4,7 @@
 
 <h2 align="center">A Mern Stack developer from Bangladesh</h2>
 <div >
- <img  style="display: block; margin-top:10% " align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
 
 ```javascript
 const developer = {
