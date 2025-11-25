@@ -5,6 +5,10 @@
 <h2 align="center">A Mern Stack developer from Bangladesh</h2>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21qNzJnOTc2MDAxeXM5Y3pkd2YzNnVpM2IzemZyOWcxbndpNWtydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTm4HF9jzY6nUoPZUt/giphy.gif">
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+
+  <!-- Left: JS code -->
+  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
 ```javascript
 const developer = {
   name: "Jonayet Hossen",
@@ -13,7 +17,6 @@ const developer = {
     frontEnd: {
       js: ["React", "Next.js"],
       css: ["Tailwind", "Bootstrap"],
-
     },
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "Mongoose", "Firebase"],
@@ -21,10 +24,9 @@ const developer = {
     tools: ["Git", "Postman", "Figma"],
   },
   architecture: ["MVC", "REST API"],
-  currentlyLearning: ["Next.js", "TypeScript"]
+  currentlyLearning: ["Next.js", "TypeScript"],
   lookingFor: "Open Source Collaborations & Challenging Projects",
 };
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
