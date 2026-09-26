@@ -79,6 +79,7 @@ const developer = {
 
 ## GitHub Stats
 
+<!--STATS:START-->
 <p align="center">
 <img src="https://img.shields.io/badge/Public_Repos-33-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Total_Stars-12-yellow?style=for-the-badge&logo=github&logoColor=white" />
@@ -92,6 +93,7 @@ const developer = {
 <img src="https://img.shields.io/badge/TypeScript-2_repos-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-2_repos-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
+<!--STATS:END-->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonayethossen&theme=tokyonight" />
