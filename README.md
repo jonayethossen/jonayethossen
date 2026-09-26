@@ -94,7 +94,7 @@ const developer = {
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there%2C+I'm+Jonayet+Hossen;MERN+Stack+Developer;CST+Diploma+Student" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there%2C+I'm+Jonayet+Hossen;MERN+Stack+Developer;Diploma+in+CST" />
 </h1>
 
 <div>
@@ -102,7 +102,7 @@ const developer = {
 
 ### About Me
 
-- Diploma student in Computer Science and Technology (CST), Govt. Graphic Arts Institute, Bangladesh
+- Diploma in Computer Science and Technology (CST), Govt. Graphic Arts Institute, Bangladesh
 - Full-stack developer working with the MERN stack
 - Currently exploring **Next.js** and **TypeScript**
 - Open to open-source collaborations and challenging projects
@@ -168,7 +168,6 @@ const developer = {
 |---|---|---|
 | **TaskerApp** | MERN task management application with Tailwind v4 theming | React, Node.js, Express, MongoDB |
 | **NexusFlow Landing** | Landing page template converted from HTML/Tailwind to React (Vite) | React, Vite, Tailwind |
-| **Auth System** | PHP/MySQL based authentication system | PHP, MySQL |
 | **Tic Tac Toe** | Interactive game built with React | React, JavaScript |
 
 <sub>Update the links above to point to each project's repository.</sub>
