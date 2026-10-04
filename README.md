@@ -83,7 +83,7 @@ const developer = {
 <p align="center">
 <img src="https://img.shields.io/badge/Public_Repos-33-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Total_Stars-12-yellow?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Followers-6-blue?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Followers-5-blue?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 **Most Used Languages** (by repository count)
