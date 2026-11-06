@@ -90,9 +90,9 @@ const developer = {
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-18_repos-F7DF1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-2_repos-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3_repos-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/TypeScript-2_repos-3178C6?style=flat-square" />
-<img src="https://img.shields.io/badge/Csound-2_repos-6e7681?style=flat-square" />
+<img src="https://img.shields.io/badge/Csound-1_repos-6e7681?style=flat-square" />
 </p>
 <!--STATS:END-->
 
