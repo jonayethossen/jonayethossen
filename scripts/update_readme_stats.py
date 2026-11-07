@@ -7,6 +7,9 @@ built-in GITHUB_TOKEN, so it is never rate-limited the way the shared
 github-readme-stats.vercel.app demo instance is.
 """
 
+import utils.net
+import utils.clients
+import utils.http_session
 import utils.transport
 import utils.session
 import os
